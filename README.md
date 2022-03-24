@@ -2,16 +2,17 @@
 
 ### About me
 
-Name: jakkrarin wannapong<br>
-Birth  :  03/01/1994<br>
-Age  :  28<br>
-Address  :  Naseaw  Muang  Chaiyaphum<br>
-Tel  :  061-771-8532<br>
+Name : Jakkrarin Wannapong<br>
+Nick Name : Mai<br>
+Birth : 03/01/1994<br>
+Age : 28<br>
+Address : Naseaw  Muang  Chaiyaphum<br>
+Tel : 061-771-8532<br>
 E-mail : jakkrarinwan@gmail.com<br>
 Bachelor : Kasetsart University Sriracha Campus
-Computer Engineering and Information  |  2014-2018 GPA  :  2.21<br>
+Computer Engineering and Information | 2014-2018 GPA : 2.21<br>
 
-### experience
+### Experience
 
 2019 March - 2021 May<br>
 wewillapp Co.,Ltd <br>
