@@ -1,9 +1,17 @@
-### Hi there 👋
+# Jakkrarin Wannapong's GitHub Profile 👋
 
-<!--
-**jakkrarinwan/jakkrarinwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+Name: jakkrarin wannapong
+Birth  :  03/01/1994
+Age  :  28
+Address  :  Naseaw  Muang  Chaiyaphum
+Tel  :  061-771-8532
+E-mail : jakkrarinwan@gmail.com
+Bachelor : Kasetsart University Sriracha Campus
+Computer Engineering and Information  |  2014-2018
+GPA  :  2.21
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
