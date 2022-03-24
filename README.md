@@ -2,23 +2,12 @@
 
 ### About me
 
-Name: jakkrarin wannapong
-Birth  :  03/01/1994
-Age  :  28
-Address  :  Naseaw  Muang  Chaiyaphum
-Tel  :  061-771-8532
-E-mail : jakkrarinwan@gmail.com
+Name: jakkrarin wannapong<br>
+Birth  :  03/01/1994<br>
+Age  :  28<br>
+Address  :  Naseaw  Muang  Chaiyaphum<br>
+Tel  :  061-771-8532<br>
+E-mail : jakkrarinwan@gmail.com<br>
 Bachelor : Kasetsart University Sriracha Campus
 Computer Engineering and Information  |  2014-2018
-GPA  :  2.21
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GPA  :  2.21<br>
