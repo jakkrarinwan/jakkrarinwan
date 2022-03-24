@@ -9,8 +9,19 @@ Address  :  Naseaw  Muang  Chaiyaphum<br>
 Tel  :  061-771-8532<br>
 E-mail : jakkrarinwan@gmail.com<br>
 Bachelor : Kasetsart University Sriracha Campus
-Computer Engineering and Information  |  2014-2018
-GPA  :  2.21<br>
+Computer Engineering and Information  |  2014-2018 GPA  :  2.21<br>
+
+### experience
+
+2019 March - 2021 May<br>
+wewillapp Co.,Ltd <br>
+iOS Developer - Swift<br>
+Application design and development on the iOS operating system as required.<br>
+
+2021 June - 2021 October<br>
+Lansing Business Systems Co.,Ltd <br>
+Mobile Developer - React Native<br>
+Develop Mobile Application Cross Platform with React Native<br>
 
 ### Achievement
 
