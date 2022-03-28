@@ -6,7 +6,7 @@ Name : Jakkrarin Wannapong<br>
 Nick Name : Mai<br>
 Birth : 03/01/1994<br>
 Age : 28<br>
-Address : Naseaw  Muang  Chaiyaphum<br>
+Address : Bangkaew, Bangplee, Samutprakarn<br>
 Tel : 061-771-8532<br>
 E-mail : jakkrarinwan@gmail.com<br>
 Bachelor : Kasetsart University Sriracha Campus
